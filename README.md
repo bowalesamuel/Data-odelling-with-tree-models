@@ -1,4 +1,4 @@
-# Data-odelling-with-tree-models
+# Data-Modelling-with-tree-models
 
 ## Introduction
 
